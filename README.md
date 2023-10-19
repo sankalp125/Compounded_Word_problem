@@ -20,4 +20,4 @@ This java Searches for the Longest and Second-Longest Compounded words in the in
  - Program Iterates through the sorted words the finds the Longest and Second-Longest Compounded words.
 
 ### Additional Information 
- - Path of source code ().
+ - Path of source code (Compounded_word_problem/src/LongestCompoundedWordsFinder.java).
